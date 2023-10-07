@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "types": "module",
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "puppeteer": "^21.3.8"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.22.15"
+  },
+  "compilerOptions": {
+    "esModuleInterop": true
+  }
+}
